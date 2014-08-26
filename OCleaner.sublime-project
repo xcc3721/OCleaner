@@ -1,0 +1,13 @@
+{
+    "build_systems" :
+    [
+        {
+            "cmd": [
+                "python",
+                "-u",
+                "$file",
+                "arg1"
+            ]
+        }
+    ]
+}
