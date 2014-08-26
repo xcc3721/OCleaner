@@ -3,6 +3,7 @@
 import sys, getopt
 import os
 import pathlib
+import re
 
 supportedFileType = {
 }
@@ -29,8 +30,16 @@ def recursiveDirFileList(path):
             fileList += subFileList
     return fileList
 
-def sourceFileAnalizer(file):
+def isOCStringLiteral(string):
+    return re.match("^@\".*\"$", string) is not None
 
+def sourceFileAnalizer(file):
+    m = re.findall('(?<=\[UIImage imageNamed:).*?(?=\])', file)
+    if m is not None:
+        for imageName in m:
+            if isOCStringLiteral(imageName):
+                print("this is a string literal" + imageName)
+                pass
     return
 
 def xibFileAnalizer(file):
@@ -39,6 +48,8 @@ def xibFileAnalizer(file):
 
 def setupSupportedFile():
     supportedFileType[".m"] = sourceFileAnalizer
+    supportedFileType[".mm"] = sourceFileAnalizer
+    supportedFileType[".cpp"] = sourceFileAnalizer
     supportedFileType[".xib"] = xibFileAnalizer
     return
 
