@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"find",
+				"findall"
+			],
+			[
+				"work",
+				"workingDir	statement"
+			],
+			[
+				"op",
+				"opts	statement"
+			],
+			[
 				"ar",
 				"argv	class"
 			],
@@ -27,17 +39,42 @@
 			"file": "test.py",
 			"settings":
 			{
-				"buffer_size": 291,
+				"buffer_size": 2397,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/re.py",
+			"settings":
+			{
+				"buffer_size": 12959,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "this is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"default_3\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"V4_back\"\nthis is a string literal@\"V4_back\"\nthis is a string literal@\"v2HudBkg\"\nthis is a string literal@\"V4_back\"\nthis is a string literal@\"V4_back\"\nthis is a string literal@\"v3bkg_down_612x10@2x.png\"\nthis is a string literal@\"v3bkg_down_612x4@2x.png\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"MovieSelected@2x.png\"\nthis is a string literal@\"v3cellbgv1@2x.png\"\nthis is a string literal@\"v3bkg_down_612x4@2x.png\"\nthis is a string literal@\"v3bkg_up_612x6@2x.png\"\nthis is a string literal@\"v3bkg_down_612x4@2x.png\"\nthis is a string literal@\"v3bkg_up_612x6@2x.png\"\nthis is a string literal@\"v3bkg_down_612x10@2x.png\"\nthis is a string literal@\"v3cellbgv1@2x.png\"\nthis is a string literal@\"v3bkg_down_612x10@2x.png\"\nthis is a string literal@\"couponListLine@2X.png\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"movie_type_first\"\nthis is a string literal@\"movie_type_hot\"\nthis is a string literal@\"movie_type_prevsell\"\nthis is a string literal@\"movie_type_3dimax\"\nthis is a string literal@\"movie_type_3d\"\nthis is a string literal@\"movie_type_imax\"\nthis is a string literal@\"movie_type_3dimax\"\nthis is a string literal@\"movie_type_3d\"\nthis is a string literal@\"movie_type_imax\"\nthis is a string literal@\"movie_type_hot\"\nthis is a string literal@\"movie_type_first\"\nthis is a string literal@\"movie_type_prevsell\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"movie_type_3dimax\"\nthis is a string literal@\"movie_type_3d\"\nthis is a string literal@\"movie_type_imax\"\nthis is a string literal@\"v3bkg_down_612x10@2x.png\"\nthis is a string literal@\"v3bkg_down_612x4@2x.png\"\nthis is a string literal@\"red_triangle\"\nthis is a string literal@\"V4_Public_arrow_down_white\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"alpha.png\"\nthis is a string literal@\"alpha.png\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"icon.png\"\nthis is a string literal@\"fullScreenPoster_568.jpg\"\nthis is a string literal@\"fullScreenPoster.jpg\"\nthis is a string literal@\"v2background.png\"\nthis is a string literal@\"navbarBackground@2x.png\"\nthis is a string literal@\"navLineUnderBkg@2x.png\"\nthis is a string literal@\"citySelectedBtn@2x.png\"\nthis is a string literal@\"citySelectedBtnPressed@2x.png\"\nthis is a string literal@\"citySelectedBtn@2x.png\"\nthis is a string literal@\"citySelectedBtnPressed@2x.png\"\nthis is a string literal@\"citySelectedBtn@2x.png\"\nthis is a string literal@\"citySelectedBtnPressed@2x.png\"\nthis is a string literal@\"v2background.png\"\nthis is a string literal@\"navbarBackground@2x.png\"\nthis is a string literal@\"navLineUnderBkg@2x.png\"\nthis is a string literal@\"citySelectedBtn@2x.png\"\nthis is a string literal@\"citySelectedBtnPressed@2x.png\"\nthis is a string literal@\"citySelectedBtn@2x.png\"\nthis is a string literal@\"citySelectedBtnPressed@2x.png\"\nthis is a string literal@\"citySelectedBtn@2x.png\"\nthis is a string literal@\"citySelectedBtnPressed@2x.png\"\nthis is a string literal@\"IconPhoneCoupon@2x.png\"\nthis is a string literal@\"IconPhoneCoupon@2x.png\"\nthis is a string literal@\"LongDashed@2x.png\"\nthis is a string literal@\"v2Common_arrow_pulldown@2x.png\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"V4_Movielist_coverbg.png\"\nthis is a string literal@\"\"\nthis is a string literal@\"\"\nthis is a string literal@\"\"\nthis is a string literal@\"\"\nthis is a string literal@\"\"\nthis is a string literal@\"\"\nthis is a string literal@\"\"\nthis is a string literal@\"\"\nthis is a string literal@\"\"\nthis is a string literal@\"V4_Seat_sofalover@2x.png\"\nthis is a string literal@\"V4_Seat_sofalovergreen@2x.png\"\nthis is a string literal@\"V4_Seat_sofa@2x.png\"\nthis is a string literal@\"V4_Seat_sofagreen@2x.png\"\nthis is a string literal@\"V4_Seat_sofaloverred@2x.png\"\nthis is a string literal@\"V4_Seat_sofared@2x.png\"\nthis is a string literal@\"V4_ConfirmCouponOrder_uncheck.png\"\nthis is a string literal@\"sku_prop_button_selected\"\nthis is a string literal@\"detail_sku_prop_button_selected.png\"\nthis is a string literal@\"V4_ConfirmCouponOrder_check.png\"\nthis is a string literal@\"V4_ConfirmCouponOrder_uncheck.png\"\nthis is a string literal@\"V4_MovieDetail_playbutton\"\nthis is a string literal@\"default_4\"\nthis is a string literal@\"V4_back\"\nthis is a string literal@\"V4_back\"\nthis is a string literal@\"v2background.png\"\nthis is a string literal@\"V4_Map_mapicon@2x.png\"\nthis is a string literal@\"V4_Map_phoneicon@2x.png\"\nthis is a string literal@\"v2background.png\"\nthis is a string literal@\"v2City_letter_bg@2x.png\"\nthis is a string literal@\"v2HudBkg\"\nthis is a string literal@\"V4_Public_dotted.png\"\nthis is a string literal@\"V4_Coupon_Placeholder\"\nthis is a string literal@\"V4_Public_dotted.png\"\nthis is a string literal@\"default_4\"\nthis is a string literal@\"default_4\"\nthis is a string literal@\"V4_Public_button232x64@2x.png\"\nthis is a string literal@\"V4_MovieDetail_feedbackicon@2x.png\"\nthis is a string literal@\"V4_Public_line@2x.png\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"V4_default_head\"\nthis is a string literal@\"navBarBkg.png\"\nthis is a string literal@\"V4_back\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"V4_Public_address_button\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"V4_Public_dotted.png\"\nthis is a string literal@\"V4_back\"\nthis is a string literal@\"V4_Public_button232x64@2x.png\"\nthis is a string literal@\"V4_CashCoupon_bgvalid\"\nthis is a string literal@\"V4_CashCoupon_bginvalid\"\nthis is a string literal@\"V4_CashCoupon_approved\"\nthis is a string literal@\"V4_CashCoupon_expire\"\nthis is a string literal@\"V4_CashCoupon_invalid\"\nthis is a string literal@\"V4_back\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"numOfTktUnusedBkg.png\"\nthis is a string literal@\"v2NumberUsedBtn@2x.png\"\nthis is a string literal@\"V4_back\"\nthis is a string literal@\"V4_Public_dotted.png\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"V4_default_head\"\nthis is a string literal@\"V4_default_head\"\nthis is a string literal@\"v2HudBkg\"\nthis is a string literal@\"v2HudBkg\"\nthis is a string literal@\"V4_back\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"V4_back\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"V4_Public_dotted.png\"\nthis is a string literal@\"V4_back\"\nthis is a string literal@\"V4_back\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"imageLoadFail.png\"\nthis is a string literal@\"v2background.png\"\nthis is a string literal@\"v2City_letter_bg@2x.png\"\nthis is a string literal@\"v2background.png\"\nthis is a string literal@\"v2background.png\"\nthis is a string literal@\"v2HudBkg@2x.png\"\nthis is a string literal@\"seaSold@2x.png\"\nthis is a string literal@\"largeSeatSold@2x.png\"\nthis is a string literal@\"seaSold@2x.png\"\nthis is a string literal@\"largeSeatSold@2x.png\"\nthis is a string literal@\"seatOptional@2x.png\"\nthis is a string literal@\"largeSeatOptional@2x.png\"\nthis is a string literal@\"seatLovers@2x.png\"\nthis is a string literal@\"largeSeatLovers@2x.png\"\nthis is a string literal@\"seatSold@2x.png\"\nthis is a string literal@\"largeSeatSold@2x.png\"\nthis is a string literal@\"seatSelected@2x.png\"\nthis is a string literal@\"largeSeatSelected@2x.png\"\nthis is a string literal@\"seatOptional@2x.png\"\nthis is a string literal@\"largeSeatOptional@2x.png\"\nthis is a string literal@\"seatLovers@2x.png\"\nthis is a string literal@\"largeSeatLovers@2x.png\"\nthis is a string literal@\"v2background.png\"\nthis is a string literal@\"v2background.png\"\nthis is a string literal@\"v2HudBkg@2x.png\"\nthis is a string literal@\"v2HudBkg@2x.png\"\nthis is a string literal@\"V2background.png\"",
+			"settings":
+			{
+				"buffer_size": 8319,
+				"line_ending": "Unix",
+				"name": "this is a string literal@\"imageLoadFail.png\""
 			}
 		}
 	],
-	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system": "Packages/User/OCleaner.sublime-build",
 	"command_palette":
 	{
 		"height": 375.0,
 		"selected_items":
 		[
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
 			[
 				"ins",
 				"Package Control: Install Package"
@@ -59,11 +96,11 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 435.0
+		"width": 588.0
 	},
 	"console":
 	{
-		"height": 126.0,
+		"height": 343.0,
 		"history":
 		[
 			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
@@ -80,6 +117,10 @@
 	},
 	"file_history":
 	[
+		"/Users/XCC/Workspace/Python/OCleaner.sublime-project",
+		"/Users/XCC/Library/Application Support/Sublime Text 3/Packages/User/OCleaner.sublime-build",
+		"/Applications/Sublime Text.app/Contents/MacOS/Packages/Python.sublime-package",
+		"/Users/XCC/Workspace/Python/OCleaner.sublime-build",
 		"/Users/XCC/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/os.py",
 		"/Users/XCC/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
@@ -110,6 +151,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"/Users/XCC/Workspace/tbmovie4ios/MoviePhoneClient",
+			"     ",
 			"path",
 			"devicetoken",
 			"did",
@@ -152,15 +195,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 291,
+						"buffer_size": 2397,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								155,
-								155
+								873,
+								873
 							]
 						],
 						"settings":
@@ -272,10 +315,276 @@
 							"syntax": "Packages/Python/Python.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 567.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/re.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12959,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6613,
+								6618
+							]
+						],
+						"settings":
+						{
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2353.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8319,
+								8319
+							]
+						],
+						"settings":
+						{
+							"auto_name": "this is a string literal@\"imageLoadFail.png\"",
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"sublime_auto_complete": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -314,7 +623,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 300.0
+		"height": 281.0
 	},
 	"output.find_results":
 	{

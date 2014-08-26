@@ -30,15 +30,24 @@ def recursiveDirFileList(path):
             fileList += subFileList
     return fileList
 
-def isOCStringLiteral(string):
-    return re.match("^@\".*\"$", string) is not None
+def OCStringLiteral(string):
+    match = re.match("(?<=@“).*", string)
+    print(match)
+    if match is not None:
+        return match.group()
+    return  None
+
+
+# def possibleImageNames(string)
 
 def sourceFileAnalizer(file):
     m = re.findall('(?<=\[UIImage imageNamed:).*?(?=\])', file)
     if m is not None:
         for imageName in m:
-            if isOCStringLiteral(imageName):
-                print("this is a string literal" + imageName)
+            literalMatch = OCStringLiteral(imageName)
+            if literalMatch is not None:
+                print(literalMatch)
+
                 pass
     return
 
